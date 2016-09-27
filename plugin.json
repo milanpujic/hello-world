@@ -4,6 +4,6 @@
         "namespace":"hello-world",
         "author":"Milan",
         "type":"template",
-        "serviceProvider":null
+        "serviceProvider":"hello-world\\Providers\\HelloWorldServiceProvider"
     }
 
