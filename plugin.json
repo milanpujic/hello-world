@@ -1,0 +1,9 @@
+    {
+        "name":"hello-world",
+        "description":"My first plugin",
+        "namespace":"hello-world",
+        "author":"Milan",
+        "type":"template",
+        "serviceProvider":"hello-world\\Providers\\HelloWorldServiceProvider"
+    }
+
