@@ -14,6 +14,6 @@
      
             public function register():void
             {
-     
+                $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
             }
         }
